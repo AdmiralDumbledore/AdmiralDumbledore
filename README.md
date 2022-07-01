@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander
-- 🌱 I’m currently learning DevOps tools 
+- 🌱 I’m currently practicing DevOps tools 
 - ⚡️ Fun fact: I like snowboarding and playing the guitar
 
 <!---
